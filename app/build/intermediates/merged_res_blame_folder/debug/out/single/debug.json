@@ -1,23 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_python.png.flat",
+        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\drawable\\python.png"
     },
     {
-        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_my_pic.jpg.flat",
-        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\drawable\\my_pic.jpg"
-    },
-    {
-        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
-    },
-    {
-        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_jsfile.png.flat",
+        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\drawable\\jsfile.png"
     },
     {
         "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
@@ -28,36 +16,24 @@
         "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
+        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_letterc.png.flat",
+        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\drawable\\letterc.png"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_my_pic.png.flat",
+        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\drawable\\my_pic.png"
+    },
+    {
         "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
-    },
-    {
-        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
@@ -68,8 +44,64 @@
         "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
+        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_star.png.flat",
+        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\drawable\\star.png"
+    },
+    {
         "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_linkedin.png.flat",
+        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\drawable\\linkedin.png"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_c.png.flat",
+        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\drawable\\c.png"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_java.png.flat",
+        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\drawable\\java.png"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_github.png.flat",
+        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\drawable\\github.png"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\AKSHAY KUMAR\\Documents\\projects\\myFIrstApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",

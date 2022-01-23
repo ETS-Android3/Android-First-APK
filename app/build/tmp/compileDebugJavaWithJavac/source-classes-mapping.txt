@@ -1,4 +1,4 @@
-com/android/myfirstapplication/BuildConfig.java
- com.android.myfirstapplication.BuildConfig
 com/android/myfirstapplication/MainActivity.java
  com.android.myfirstapplication.MainActivity
+com/android/myfirstapplication/BuildConfig.java
+ com.android.myfirstapplication.BuildConfig
